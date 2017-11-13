@@ -5,7 +5,7 @@ output: html_document
 ---
 *This document describes the work I did for the second course project in the Corsera online class, Exploratory Data Analysis.  The first part of the document uses the introduction to the project and description of the data taken directly from the course materials.  The second part presents my work and findings.*
 
-#PART ONE:  COURSE DESCRIPTION OF THE PROJECT
+# PART ONE:  COURSE DESCRIPTION OF THE PROJECT
 ## Introduction
 
 Fine particulate matter (PM2.5) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and for tracking the emissions of this pollutant into the atmosphere. Approximatly every 3 years, the EPA releases its database on emissions of PM2.5. This database is known as the National Emissions Inventory (NEI). You can read more information about the NEI at the [EPA National Emissions Inventory web site.](http://www.epa.gov/ttn/chief/eiinformation.html)
